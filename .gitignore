@@ -1,0 +1,41 @@
+# Compiled class files
+*.class
+
+# JAR files
+*.jar
+
+# IntelliJ IDEA / JetBrains IDEs
+.idea/
+*.iml
+out/
+
+# Eclipse metadata
+.project
+.classpath
+.settings/
+bin/
+
+# Maven target directory
+target/
+run/
+
+# Gradle build artifacts
+build/
+.gradle/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary or backup files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# If you have any configuration files you don't want to commit (custom server configs)
+# config.yml

@@ -1,0 +1,10 @@
+name: dejavu
+version: '1.0'
+main: com.dejavu.DejavuPlugin
+api-version: '1.21'
+authors: [ Banker ]
+commands:
+  dejavu:
+    description: Dejavu command
+    usage: /<command>
+    aliases: [djv]
